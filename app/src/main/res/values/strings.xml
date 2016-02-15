@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="name">Name</string>
+    <string name="area">Area</string>
+    <string name="population">Population</string>
+
+    <string-array name="sortby_array">
+        <item>@string/name</item>
+        <item>@string/area</item>
+        <item>@string/population</item>
+    </string-array>
+
+</resources>
